@@ -1,4 +1,4 @@
-# 4 practica integradora
+# E-commerce Trabajo Final
 
 ## Alumno:
 #### Carlos Salomon
